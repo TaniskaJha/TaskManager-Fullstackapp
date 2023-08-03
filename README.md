@@ -1,4 +1,4 @@
-# MERN Todo Application
+# MERN stack Task Manager Application
 
 Hello! I'm Taniska Jha. At this repository i built a `Complete MERN Stack Task manager Application`. Using `Node.js, Express.js, MongoDB, React.js, Redux.js & Tailwind CSS`.
 
