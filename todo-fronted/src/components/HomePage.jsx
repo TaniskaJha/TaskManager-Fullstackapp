@@ -7,7 +7,7 @@ const HomePage = () => {
       <div className="flex flex-col items-center justify-center">
         <h1 className="my-5 text-4xl font-bold text-black">
           {" "}
-          TODO APP IMPLEMENTATION{" "}
+          TASK Manager Full-stack App{" "}
         </h1>
         <AddNewTodoForm />
         <TodosList />
